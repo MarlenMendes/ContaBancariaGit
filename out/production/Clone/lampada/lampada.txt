@@ -1,0 +1,13 @@
+1. Ir até o interruptor
+2. Acionar o interruptor (se a lâmpada não acender, então)
+3. Andar até a escada
+4. Pegar a escada
+5. posicionar a escada em baixo da lâmpda
+6. Ir até o interruptor
+7. Acionar o interruptor
+8. Pegar a lâmpda nova
+9. Ir até a escada
+10. Subir na escada
+11. Colocar a lâmpada nova
+12. descer da escada
+13. Luz clareando
